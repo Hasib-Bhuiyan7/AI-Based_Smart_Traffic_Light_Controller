@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+
+    <vType id="pedType" vClass="pedestrian"/>
+
+    <personFlow id="ped_N_to_S" begin="0" end="3600" period="9.54" type="pedType">
+        <personTrip from="E9" to="E8"/>
+    </personFlow>
+
+    <personFlow id="ped_S_to_N" begin="0" end="3600" period="9.54" type="pedType">
+        <personTrip from="-E8" to="-E9"/>
+    </personFlow>
+
+    <personFlow id="ped_E_to_W" begin="0" end="3600" period="9.54" type="pedType">
+        <personTrip from="-E7" to="-E7.68"/>
+    </personFlow>
+
+    <personFlow id="ped_W_to_E" begin="0" end="3600" period="9.54" type="pedType">
+        <personTrip from="E7" to="E7.61"/>
+    </personFlow>
+
+</routes>

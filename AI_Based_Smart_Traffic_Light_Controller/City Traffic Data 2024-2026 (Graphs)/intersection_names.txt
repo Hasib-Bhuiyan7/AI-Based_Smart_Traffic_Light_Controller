@@ -1,0 +1,174 @@
+TMC SUMMARY INTERSECTION LIST (2024-2026)
+========================================
+
+--- YEAR: 2024 ---
+TOP 25 BUSIEST:
+  1. Sheppard Ave E / Bayview Ave
+  2. William R Allen Rd / Sheppard Ave W
+  3. Sheppard Ave E / Bayview Ave
+  4. Sheppard Ave E / Leslie St / Don River E Branch
+  5. Allen Rd / Transit Rd / William R Allen Rd / Wilson Hs S Allen Rd Ramp
+  6. Steeles Ave E / Yonge St / Steeles Ave W
+  7. Finch Ave E / Bayview Ave / Don River E Branch
+  8. Finch Ave E / Bayview Ave / Don River E Branch
+  9. Hwy 401 Collectors W Keele St Ramp / Hwy 401 Collectors W Ramp / Keele St / Keele St S / Sir William Hearst Ave
+  10. York Mills Rd / Bayview Ave
+  11. Consilium Pl / Hwy 401 Collectors E Mccowan Rd Ramp / McCowan Rd
+  12. Don Mills Rd / Eglinton Ave E
+  13. Eglinton Ave W / Hwy 27 / Hwy 401 / Hwy 427 Eglinton E Ramp
+  14. Lawrence Ave E / Victoria Park Ave
+  15. Wilson Ave / Keele St
+  16. Islington Ave / The Queensway
+  17. Hwy 401 Collectors W Mccowan Rd Ramp / Hwy 401 Collectors W Ramp / McCowan Rd / Mccowan Rd S
+  18. McCowan Rd / Sheppard Ave E
+  19. Steeles Ave E / Bayview Ave
+  20. Finch Ave E / Leslie St
+  21. Keele St / Lawrence Ave W
+  22. Lake Shore Blvd W / Strachan Ave / Remembrance Dr
+  23. Markham Rd / Milner Ave
+  24. Martin Grove Rd / Eglinton Ave W
+  25. Don Mills Rd / Lawrence Ave E
+
+25 LEAST BUSY:
+  1. Alcorn Ave / Walker Ave
+  2. Havelock St / Dewson St
+  3. Gladstone Ave / Lindsey Ave
+  4. Gladstone Ave / Sylvan Ave / Dufferin Grove Park Trl
+  5. Elsie Lane / Ernest Ave
+  6. Kuhl Ave / Tromley Dr
+  7. Pearson Ave / Fuller Ave
+  8. Prince George Dr / Palace Arch Dr
+  9. Cornelius Pkwy / North Park Trl
+  10. Grierson Rd / Allenby Ave
+  11. Dubarry Ave / Darlingside Dr
+  12. Unicorn Ave / Snowcrest Ave (West)
+  13. Humberview Rd / Halford Ave / Lessard Park Trl
+  14. Mossom Rd / Riverside Dr
+  15. Carnarvon Ave / Melrose St
+  16. Rosemeade Ave / Tenby St
+  17. Rosecliffe Ave / Lauder Ave
+  18. Hidden Trl / Millersgrove Dr
+  19. Meadowvale Rd N Zoo W Ramp / Zoo Meadowvale Rd N Ramp / Zoo Rd
+  20. Mitchell Ave / Tecumseth St
+  21. Allenvale Ave / Lauder Ave (North)
+  22. Hepbourne St / Havelock St
+  23. Allenvale Ave / Lauder Ave (South)
+  24. Varley Lane / Grenview Blvd N
+  25. Silverthorn Ave / Turnberry Ave
+
+----------------------------------------
+
+--- YEAR: 2025 ---
+TOP 25 BUSIEST:
+  1. Ellesmere Rd / Kennedy Rd
+  2. Lake Shore Blvd W / Windermere Ave (North)
+  3. Lake Shore Blvd W / Lakeshore E Parkside Ramp / Parkside Dr / Parkside Dr S Lakeshore Blvd E Ramp
+  4. Keele St / Steeles Ave W
+  5. Lake Shore Blvd W / Windermere Ave (North)
+  6. Hwy 401 Collectors E Leslie St Ramp / Hwy 401 Collectors E Ramp / Leslie N / Leslie St / Lesmill Rd
+  7. Steeles Ave E / Bayview Ave
+  8. Lawrence Ave E / Warden Ave
+  9. Kennedy Rd / Lawrence Ave E
+  10. Lawrence Ave E / Victoria Park Ave
+  11. Markham Rd / Finch Ave E
+  12. Sheppard Ave E / Yonge St / Sheppard Ave W
+  13. Jane St / Steeles Ave W / Black Creek
+  14. Avenue Rd / Wilson Ave
+  15. Gardiner Expy E Park Lawn Rd Ramp / Mimico Creek Trl / Park Lawn Rd
+  16. Lawrence Ave E / Railside Rd / Underhill Dr
+  17. Birchmount Rd / Lawrence Ave E
+  18. Sheppard Ave E / Victoria Park Ave
+  19. Dixon Rd / Kipling Ave
+  20. Keele St / Sheppard Ave W / Downsview Park Trl
+  21. Brimley Rd / Lawrence Ave E / Gatineau Hydro Corridor Trl
+  22. Finch Ave W / Arrow Rd / Signet Dr
+  23. Kipling Ave / The Queensway
+  24. Finch Ave W / Arrow Rd / Signet Dr
+  25. Ellesmere Rd / Midland Ave
+
+25 LEAST BUSY:
+  1. Thistle Down Blvd / Kenhill Dr
+  2. Wilfrid Ave / Servington Cres
+  3. Walnut Ave / Stanley Ave
+  4. Lindsey Ave / Havelock St
+  5. Calstock Dr / Allcroft Dr
+  6. Asterfield Dr / Green Ash Ter
+  7. Windom Rd / Ferrand Dr (East)
+  8. Thistle Down Blvd / Dashwood Cres (East)
+  9. Norwood Rd / Benlamond Ave / Glen Oak Dr
+  10. Bolster Ave / Pitt Ave
+  11. Bankfield Dr / Alhart Dr
+  12. Portugal Sq / Adelaide St W
+  13. Janray Dr / Fortune Gt
+  14. Maplewood Ave / Cherrywood Ave
+  15. Ravenbury Rd / Marowyne Dr / Clareville Cres
+  16. Dearham Wood / Toynbee Trl
+  17. Elinor Ave / Joy Dr
+  18. Pitt Ave / Conroy Ave
+  19. Thistle Down Blvd / Alhart Dr / Bridgenorth Cres
+  20. Hursting Ave / Winona Dr
+  21. Robina Ave / Holland Park Ave
+  22. Chiltern Hill Rd / Croydon Rd
+  23. Howick Ave / Silverthorn Ave
+  24. Scarborough Golf Club Rd: Hill Cres - 50 Scar Golf Club Rd
+  25. Regal Rd / Glenholme Ave
+
+----------------------------------------
+
+--- YEAR: 2026 ---
+TOP 25 BUSIEST:
+  1. Lawrence Ave E / Lawrence W DVP N Ramp
+  2. Bathurst St / Eglinton Ave W
+  3. Don Mills Rd / O'Connor Dr
+  4. Allen Rd / Eglinton Ave W (East)
+  5. Bayview Ave / York Rd / Wilket Rd
+  6. Dufferin St / Eglinton Ave W
+  7. Hwy 27 N / Queen's Plate Dr
+  8. Leslie St / Bannatyne Dr
+  9. Kingston Rd / Falaise Rd
+  10. Kingston Rd / Amiens Rd
+  11. Leslie St / Farmstead Rd / Coldwater Rd
+  12. Lawrence Ave W / Marlee Ave
+  13. Eglinton Ave W / Strathearn Rd / Ben Nobleman Park Trl
+  14. Eglinton Ave W / Glenarden Rd
+  15. Bathurst St / Burton Rd / Strathearn Rd
+  16. Leslie St / Kirkwood Rd
+  17. Lake Shore Blvd E / Cooper St
+  18. Lake Shore Blvd E / John M Tinsley St
+  19. Eglinton Ave W / Glen Cedar Rd
+  20. Lawrence Ave W / Glenmount Ave / Brucewood Cres
+  21. Jarvis St / Lower Jarvis St / Front St E
+  22. O'Connor Dr / Donlands Ave
+  23. York Mills Rd / Valentine Dr / Silverdale Cres
+  24. York St / Harbour St
+  25. Don Mills Rd / Bond Ave / Legato Crt
+
+25 LEAST BUSY:
+  1. Perivale Cres / Dignam Crt
+  2. Hiltz Ave / Dorothy St
+  3. Bakerton Dr / Porchester Dr
+  4. Chiltern Hill Rd / Croydon Rd
+  5. Porchester Dr / Nelson St
+  6. Rosemary Rd / Rosemary Lane / Dewbourne Ave
+  7. Flanders Rd / Dewbourne Ave
+  8. Farmbrook Rd / Porchester Dr
+  9. Westlake Ave / Wallington Ave
+  10. Camberwell Rd / Dewbourne Ave
+  11. Westover Hill Rd / Dewbourne Ave
+  12. Howland Rd / Simpson Ave
+  13. Old Forest Hill Rd / Glenarden Rd
+  14. Glenarden Rd / Wembley Rd
+  15. Everden Rd / Gloucester Grv
+  16. Queen Elizabeth Blvd / Plastics Ave
+  17. Blantyre Ave / Swanwick Ave
+  18. Glenarden Rd / Ridge Hill Dr
+  19. Winona Dr / Gloucester Grv (North)
+  20. Atlas Ave / Gloucester Grv
+  21. Hilltop Rd / Wembley Rd
+  22. Old Park Rd / Wembley Rd
+  23. Burton Rd / Richview Ave
+  24. Acacia Rd / Millwood Rd (North)
+  25. Dartnell Ave / Bridgman Ave
+
+----------------------------------------
+

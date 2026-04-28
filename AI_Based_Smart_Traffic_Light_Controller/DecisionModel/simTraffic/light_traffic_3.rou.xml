@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="toy_car" maxSpeed="13.0" accel="0.5" decel="0.5"/>
+
+    <trip id="0" type="toy_car" depart="0.00" from="-E8" to="-E7.68"/>
+    <trip id="1" type="toy_car" depart="32.44" from="E7" to="E8"/>
+    <trip id="2" type="toy_car" depart="65.01" from="-E7" to="E8"/>
+    <trip id="3" type="toy_car" depart="87.17" from="-E7" to="-E7.68"/>
+    <trip id="4" type="toy_car" depart="118.00" from="E9" to="E8"/>
+    <trip id="5" type="toy_car" depart="146.27" from="-E7" to="-E7.68"/>
+    <trip id="6" type="toy_car" depart="179.03" from="-E7" to="-E7.68"/>
+    <trip id="7" type="toy_car" depart="206.12" from="-E7" to="E8"/>
+    <trip id="8" type="toy_car" depart="234.95" from="E7" to="E7.61"/>
+    <trip id="9" type="toy_car" depart="274.54" from="-E8" to="E7.61"/>
+    <trip id="10" type="toy_car" depart="299.81" from="E7" to="E7.61"/>
+    <trip id="11" type="toy_car" depart="335.38" from="-E7" to="-E9"/>
+    <trip id="12" type="toy_car" depart="354.75" from="-E7" to="-E9"/>
+    <trip id="13" type="toy_car" depart="387.71" from="-E7" to="-E7.68"/>
+    <trip id="14" type="toy_car" depart="424.19" from="-E7" to="E8"/>
+    <trip id="15" type="toy_car" depart="445.66" from="E7" to="E7.61"/>
+    <trip id="16" type="toy_car" depart="477.33" from="-E8" to="-E7.68"/>
+    <trip id="17" type="toy_car" depart="506.74" from="E7" to="E7.61"/>
+    <trip id="18" type="toy_car" depart="540.78" from="E9" to="E8"/>
+    <trip id="19" type="toy_car" depart="572.53" from="-E7" to="-E9"/>
+    <trip id="20" type="toy_car" depart="598.83" from="E9" to="-E7.68"/>
+</routes>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="toy_car" maxSpeed="13.0" accel="1" decel="1"/>
+
+    <trip id="0" type="toy_car" depart="0.05" from="E9" to="E7.61"/>
+    <trip id="1" type="toy_car" depart="9.66" from="-E7" to="-E7.68"/>
+    <trip id="2" type="toy_car" depart="20.55" from="E7" to="-E9"/>
+    <trip id="3" type="toy_car" depart="31.41" from="-E7" to="-E9"/>
+    <trip id="4" type="toy_car" depart="41.33" from="-E7" to="E8"/>
+    <trip id="5" type="toy_car" depart="49.16" from="E9" to="E7.61"/>
+    <trip id="6" type="toy_car" depart="61.24" from="-E8" to="E7.61"/>
+    <trip id="7" type="toy_car" depart="68.64" from="-E7" to="E8"/>
+    <trip id="8" type="toy_car" depart="81.69" from="E9" to="E8"/>
+    <trip id="9" type="toy_car" depart="91.52" from="E9" to="E7.61"/>
+    <trip id="10" type="toy_car" depart="101.70" from="-E7" to="-E7.68"/>
+    <trip id="11" type="toy_car" depart="108.82" from="-E7" to="E8"/>
+    <trip id="12" type="toy_car" depart="120.50" from="-E7" to="-E9"/>
+    <trip id="13" type="toy_car" depart="131.12" from="-E7" to="E8"/>
+    <trip id="14" type="toy_car" depart="141.65" from="-E8" to="-E9"/>
+    <trip id="15" type="toy_car" depart="150.40" from="-E7" to="E8"/>
+    <trip id="16" type="toy_car" depart="158.70" from="-E7" to="-E7.68"/>
+    <trip id="17" type="toy_car" depart="168.71" from="-E8" to="E7.61"/>
+    <trip id="18" type="toy_car" depart="181.40" from="-E8" to="E7.61"/>
+    <trip id="19" type="toy_car" depart="189.38" from="E7" to="-E9"/>
+    <trip id="20" type="toy_car" depart="200.54" from="-E7" to="-E9"/>
+    <trip id="21" type="toy_car" depart="211.23" from="-E7" to="-E9"/>
+    <trip id="22" type="toy_car" depart="220.78" from="-E7" to="E8"/>
+    <trip id="23" type="toy_car" depart="229.78" from="E7" to="E7.61"/>
+    <trip id="24" type="toy_car" depart="241.49" from="-E7" to="E8"/>
+    <trip id="25" type="toy_car" depart="248.79" from="-E7" to="E8"/>
+    <trip id="26" type="toy_car" depart="259.30" from="E7" to="E8"/>
+    <trip id="27" type="toy_car" depart="270.89" from="E7" to="E7.61"/>
+    <trip id="28" type="toy_car" depart="279.84" from="-E7" to="-E9"/>
+    <trip id="29" type="toy_car" depart="291.27" from="-E8" to="-E9"/>
+    <trip id="30" type="toy_car" depart="300.44" from="E9" to="-E7.68"/>
+    <trip id="31" type="toy_car" depart="309.04" from="-E7" to="E8"/>
+    <trip id="32" type="toy_car" depart="318.87" from="E9" to="E8"/>
+    <trip id="33" type="toy_car" depart="331.62" from="E7" to="E8"/>
+    <trip id="34" type="toy_car" depart="339.81" from="-E8" to="-E9"/>
+    <trip id="35" type="toy_car" depart="349.99" from="E7" to="-E9"/>
+    <trip id="36" type="toy_car" depart="359.51" from="E7" to="E8"/>
+    <trip id="37" type="toy_car" depart="368.22" from="-E7" to="-E7.68"/>
+    <trip id="38" type="toy_car" depart="379.50" from="-E7" to="-E9"/>
+    <trip id="39" type="toy_car" depart="389.36" from="E9" to="E8"/>
+    <trip id="40" type="toy_car" depart="398.61" from="E7" to="E8"/>
+    <trip id="41" type="toy_car" depart="408.70" from="E7" to="E7.61"/>
+    <trip id="42" type="toy_car" depart="418.70" from="-E8" to="-E7.68"/>
+    <trip id="43" type="toy_car" depart="428.43" from="E9" to="E8"/>
+    <trip id="44" type="toy_car" depart="438.34" from="-E7" to="E8"/>
+    <trip id="45" type="toy_car" depart="448.21" from="E9" to="E8"/>
+    <trip id="46" type="toy_car" depart="460.81" from="E9" to="E7.61"/>
+    <trip id="47" type="toy_car" depart="471.06" from="E9" to="E7.61"/>
+    <trip id="48" type="toy_car" depart="478.52" from="-E7" to="E8"/>
+    <trip id="49" type="toy_car" depart="491.01" from="-E8" to="-E7.68"/>
+    <trip id="50" type="toy_car" depart="500.06" from="-E7" to="-E7.68"/>
+    <trip id="51" type="toy_car" depart="509.70" from="E7" to="-E9"/>
+    <trip id="52" type="toy_car" depart="519.46" from="-E8" to="E7.61"/>
+    <trip id="53" type="toy_car" depart="530.33" from="-E7" to="E8"/>
+    <trip id="54" type="toy_car" depart="540.82" from="E7" to="E7.61"/>
+    <trip id="55" type="toy_car" depart="548.28" from="E7" to="E8"/>
+    <trip id="56" type="toy_car" depart="559.37" from="E9" to="-E7.68"/>
+    <trip id="57" type="toy_car" depart="568.76" from="E9" to="E8"/>
+    <trip id="58" type="toy_car" depart="578.38" from="-E8" to="E7.61"/>
+    <trip id="59" type="toy_car" depart="590.45" from="-E7" to="-E9"/>
+    <trip id="60" type="toy_car" depart="598.27" from="E9" to="E7.61"/>
+    <trip id="61" type="toy_car" depart="611.56" from="-E7" to="-E9"/>
+    <trip id="62" type="toy_car" depart="620.15" from="-E8" to="E7.61"/>
+    <trip id="63" type="toy_car" depart="629.66" from="-E7" to="-E9"/>
+    <trip id="64" type="toy_car" depart="641.63" from="E7" to="E7.61"/>
+    <trip id="65" type="toy_car" depart="651.75" from="E9" to="-E7.68"/>
+    <trip id="66" type="toy_car" depart="659.22" from="E7" to="E7.61"/>
+    <trip id="67" type="toy_car" depart="671.47" from="E7" to="E8"/>
+    <trip id="68" type="toy_car" depart="678.78" from="E7" to="E7.61"/>
+    <trip id="69" type="toy_car" depart="689.74" from="-E7" to="E8"/>
+    <trip id="70" type="toy_car" depart="698.25" from="E9" to="E7.61"/>
+</routes>

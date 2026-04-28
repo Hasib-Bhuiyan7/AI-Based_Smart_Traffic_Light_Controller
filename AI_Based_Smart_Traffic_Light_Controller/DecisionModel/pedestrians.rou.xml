@@ -1,0 +1,9 @@
+<routes>
+    <personFlow id="p_ns" begin="0" end="1000" probability="0.1">
+        <walk from="E9" to="-E8"/>
+    </personFlow>
+
+    <personFlow id="p_ew" begin="0" end="1000" probability="0.1">
+        <walk from="E7" to="-E7"/>
+    </personFlow>
+</routes>
